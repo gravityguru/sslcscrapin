@@ -2588,3 +2588,77 @@ Result
 PASS
 CGA
 B+
+Name
+ MANASA B M
+Reg. No.
+ 20190799898
+None
+ 
+KANNADA
+
+20
+
+040
+
+060
+C 
+ENGLISH
+
+17
+
+039
+
+056
+
+C+
+HINDI
+
+16
+
+024
+
+040
+
+NC
+MATHS
+
+16
+
+024
+
+040
+
+NC
+SCIENCE
+
+17
+
+017
+
+034
+
+NC
+S SCIENCE
+
+18
+
+028
+
+046
+
+C 
+Total Marks
+276
+Physical and Health
+B
+Attitude and Values
+A
+Work Experience
+A
+Art Education
+A
+Result
+
+FAIL
+CGA
+NC
